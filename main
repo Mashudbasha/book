@@ -1,0 +1,20 @@
+package com;
+
+import java.util.Scanner;
+
+public class Mainjava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+      Scanner Sc = new Scanner(System.in);
+      
+	System.out.println("book_title is abcd");
+     
+	String xyz = null;
+	System.out.println("book_author is xyz");
+	System.out.println("book_price is 123");
+	System.out.println("book_date is 12/09/2021");
+	}
+
+}
